@@ -1,7 +1,7 @@
 # Circuitry Projects
 
 ## Repo Description
-This is a repository of my circuit projects.
+This is a repository erere of my circuit projects.
 
 ## List of Projects
 [Rocket](./rocket)
