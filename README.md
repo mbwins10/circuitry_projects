@@ -8,4 +8,4 @@ This is a repository erere of my circuit projects.
 
 [Sand](./sand)
 
-[Yea](./yea)
+[Yea](./yeah)
