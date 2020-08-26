@@ -3,8 +3,8 @@
 ## Description
 Implementation from: [Supplier](https://www.goldmine-elec-products.com/prodinfo.asp?number=C6864)
 
-<DESCRIPTION HERE> (what kind of sensors, what kind of circuit, how does this work, how does power flow)
-  
+This kit uses a 9-volt battery to power LEDs in a rocketship shape. (what kind of sensors, what kind of circuit, how does this work, how does power flow)
+
 ## Demo
 [Demo Movie](./cad.mp4)
 
